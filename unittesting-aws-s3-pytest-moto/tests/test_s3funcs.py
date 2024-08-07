@@ -9,6 +9,7 @@ def s3_boto():
     """Create an S3 boto3 client and return the client object"""
     
     s3 = boto3.client('s3', region_name='us-east-1')
+    
     return s3
 
 @mock_s3
