@@ -1,0 +1,1 @@
+https://dev.to/panilo/boto3-and-python-unittestmock-5hji
